@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(252, 166, 241);
+    font-family: monospace;
+    }
+div {
+    text-align: center;
+    }
+textarea {
+    vertical-align:top;
+}
+.navbar-brand{
+    text-align: center;
+    color: #4adbfc;
+    font-size: 27px;
+    font-style: italic;
+}
+#leg{
+    color: rgb(245, 238, 36);
+    font-style: italic;
+    font-size: larger;
+}
+#item{
+    color: rgba(245, 245, 245, 0.94);
+}
